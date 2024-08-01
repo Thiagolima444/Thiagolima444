@@ -4,4 +4,4 @@
 - Estou trabalhando em projetos **Scratch**, **JavaScript** e **HTML** no **P5JS** 😎;
 - Para contrato ou duvidas, me envie um e-mail *THIAGOLIMALOURENZO047@GMAIL.COM* 😁😮
 
-![] (https://media1.tenor.com/m/YGV1m0f5oOAAAAAC/homer-simpson-hide-in-shrubs.gif)
+![](https://media1.tenor.com/m/YGV1m0f5oOAAAAAC/homer-simpson-hide-in-shrubs.gif)
